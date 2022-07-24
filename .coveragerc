@@ -1,0 +1,2 @@
+[run]
+source = pyramid_chameleon_zodb
